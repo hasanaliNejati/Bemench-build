@@ -40,6 +40,7 @@ Library: C:\Users\hasanali\Documents\Project\bemench\Temp\BurstOutput\Data\Plugi
 --assembly-defines=DOTween;
 --assembly-defines=Sirenix.OdinInspector.Attributes;
 --assembly-defines=Sirenix.Utilities;
+--assembly-defines=PersianDateTime.Core;
 --assembly-defines=Unity.VisualScripting.Antlr3.Runtime;
 --assembly-defines=Unity.Burst.Unsafe;
 --assembly-defines=Newtonsoft.Json;
@@ -146,6 +147,7 @@ Library: C:\Users\hasanali\Documents\Project\bemench\Temp\BurstOutput\Data\Plugi
 --assembly-defines=DOTween;
 --assembly-defines=Sirenix.OdinInspector.Attributes;
 --assembly-defines=Sirenix.Utilities;
+--assembly-defines=PersianDateTime.Core;
 --assembly-defines=Unity.VisualScripting.Antlr3.Runtime;
 --assembly-defines=Unity.Burst.Unsafe;
 --assembly-defines=Newtonsoft.Json;
